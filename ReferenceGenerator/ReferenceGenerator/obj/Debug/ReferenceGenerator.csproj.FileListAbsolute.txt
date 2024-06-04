@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\obj\Debug\ReferenceGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\obj\Debug\ReferenceGenerator.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\obj\Debug\ReferenceGenerator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\bin\Debug\ReferenceGenerator.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\bin\Debug\ReferenceGenerator.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\bin\Debug\ReferenceGenerator.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\obj\Debug\ReferenceGenerator.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\ReferenceGenerator\ReferenceGenerator\obj\Debug\ReferenceGenerator.pdb
